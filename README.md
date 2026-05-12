@@ -1,0 +1,1 @@
+# MethodsHub-R-method-template
